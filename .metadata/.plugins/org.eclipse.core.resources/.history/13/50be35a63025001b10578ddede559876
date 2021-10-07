@@ -1,0 +1,15 @@
+import java.util.ArrayList;
+public class HashTableTest {
+	public static void main (String [] args) {
+		HashTable<String> h = new HashTable<String>(21);
+		h.put("Ann");
+		h.put("Ben");
+		h.put("Joe");
+		h.put("John");
+		h.put("Bill");
+		h.put("Henry");
+		h.put("Tommy");
+		System.out.println("Check hash table:" + h.toString());
+	}
+
+}

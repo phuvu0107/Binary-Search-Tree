@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Administrator\Documents\DE ANZA COLLEGE\Fall 2020\CIS22C\Week 6\LAB5\.metadata\.plugins\org.eclipse.jdt.core
+772910546.index
+1275866231.index
